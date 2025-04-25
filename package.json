@@ -1,0 +1,19 @@
+{
+  "name": "@esm-jsdoc/parser",
+  "version": "0.1.0",
+  "author": "",
+  "license": "MIT",
+  "description": "Lightweight JSDoc comment parser for ES modules",
+  "type": "module",
+  "main": "src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.23.0",
+    "comment-parser": "^0.7.6"
+  }
+}
