@@ -1,6 +1,6 @@
 {
   "name": "@esm-jsdoc/parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "",
   "license": "MIT",
   "description": "Lightweight JSDoc comment parser for ES modules",
