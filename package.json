@@ -1,12 +1,12 @@
 {
   "name": "@esm-jsdoc/parser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "",
   "license": "MIT",
   "description": "Lightweight JSDoc comment parser for ES modules",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YourUser/esm-jsdoc-parser.git"
+    "url": "git+https://github.com/bannostookaylo/esm-jsdoc-parser.git"
   },
   "type": "module",
   "main": "src/index.mjs",
